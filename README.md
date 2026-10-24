@@ -17,4 +17,3 @@ I created **Time2Code**, my own method for building software with AI coding agen
 - [LinkedIn](https://www.linkedin.com/in/yusbel)
 - [yusbel.com](https://www.yusbel.com)
 
-**AsyncAwait. Always something to await.**
