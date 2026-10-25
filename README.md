@@ -6,7 +6,7 @@ I design software, and the way software gets built. 25+ years in engineering —
 
 ## How I build
 
-I created **Time2Code**, my own method for building software with AI coding agents: the architecture, specifications, and practices are decided by a human first; the agents write the code inside them; I review everything that lands. Left alone, AI writes inconsistent code. Directed well, it is the most leverage an architect has ever had.
+I created **Time2Code**, my own method for building software with AI coding agents: the architecture, specifications, and practices are decided by a human first; the agents write the code inside them; I review everything that lands.
 
 ## Working with
 
